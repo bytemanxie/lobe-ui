@@ -47,6 +47,10 @@ description: Markdown is a React component used to render markdown text. It supp
 
 <code iframe src="./demos/customPlugins/index.tsx" nopadding></code>
 
+## Collapsible Tool Call
+
+<code iframe src="./demos/collapsible.tsx" nopadding></code>
+
 ## APIs
 
 | Property              | Description                                            | Type                                                                                               | Default     |

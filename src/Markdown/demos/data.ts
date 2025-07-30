@@ -152,6 +152,11 @@ This is [an example](http://example.com/ "Title") inline link.
 #### Customize Image Display
 
 ![](https://github.com/user-attachments/assets/2428a136-38bf-488c-8033-d9f261d67f3d)
+
+<think>我是think组件</think>
+浏览这些搜索结果时，注意到几个明显的大类：技术动态、商业合作、卖家政策变化、财务表现和地缘政治影响。技术方面最突出的是AWS在8月5日宣布接入OpenAI模型[^3][^9][^46]，这个信息在多个网页重复出现，应该是近期重大突破。AWS还更新了Amazon Q开发者工具[^4]和Amazon DocumentDB服务[^21]，量子计算方面也有新动作[^26]。
+
+商业合作上比较意外的是亚马逊披露了对IonQ公司的投资[^5][^7][^25]，金额3670万美元，直接导致IonQ股价跳涨。还有和英伟达在机器人领域的合作信息[^42]，这个技术整合看起来挺前沿的。
 `;
 
 export const code = `

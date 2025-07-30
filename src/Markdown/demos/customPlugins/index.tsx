@@ -7,7 +7,7 @@ import { removeLineBreaksInAntArtifact } from './utils';
 
 const code = `好的,让我来用新的视角解释一下"睡觉"这个词。
 
-<antThinking>这个请求适合创建一个新的SVG卡片artifact。它是一个独立的视觉元素,可以重复使用或修改,符合好的artifact标准。我将创建一个新的artifact,标识符为"sleep-interpretation-card"。</antThinking>
+<antThinking>这个请求适合创建一个新的SVG卡片artifact。它是一个独立的视觉元素,可以重复使用或修改,符合好的artifact标准。我将创建一个新的artifact,标识符为"sleep-interpretation-card"。AWS还更新了Amazon Q开发者工具[4](https://aws.amazon.com/cn/blogs/aws/amazon-q-developer-preview-and-amazon-documentdb-service-now-available/)和Amazon DocumentDB服务[21](https://aws.amazon.com/cn/blogs/aws/amazon-documentdb-service-now-available/)。</antThinking>
 
 <antArtifact identifier="sleep-interpretation-card" type="image/svg+xml" title="睡觉的新解释">
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 600">
